@@ -11,6 +11,7 @@ A collection of libraries to support SCITT standards.
 ### SCITT Libraries
 
 - Coming soon
+- [SCITT Test vectors: astrogilda/agent-evidence-vectors](https://github.com/astrogilda/agent-evidence-vectors/tree/main/vectors-scitt-cose) (Transparent Statements carrying an in-toto payload, RFC 9943 and RFC 9942)
 
 ### COSE Libraries
 - [golang: veraison/go-cose](https://github.com/veraison/go-cose)
