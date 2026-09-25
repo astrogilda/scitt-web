@@ -21,7 +21,7 @@ A GitHub Action for registering SCITT Signed Statements to DataTrails.
 ## agent-evidence-vectors
 
 - Draft Version: the published RFCs, [RFC 9943](https://www.rfc-editor.org/rfc/rfc9943.html) (architecture) and [RFC 9942](https://www.rfc-editor.org/rfc/rfc9942.html) (receipts)
-- Conformance vectors and reference verifier: [astrogilda/agent-evidence-vectors](https://github.com/astrogilda/agent-evidence-vectors)
+- Conformance vectors and reference verifier: [probityai/agent-evidence-vectors](https://github.com/probityai/agent-evidence-vectors)
 
 A carriage profile and conformance corpus for SCITT Transparent Statements whose payload is an
 in-toto Statement about what an automated agent did at run time. The corpus is 27 vectors, split
